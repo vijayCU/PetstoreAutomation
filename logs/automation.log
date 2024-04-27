@@ -1,0 +1,72 @@
+12:53:55.205 [main}] INFO  api.test.userTestusingPropertiesfile - ******************Creating User*****
+12:53:57.698 [main}] INFO  api.test.userTestusingPropertiesfile - ******************Created User*****
+12:53:57.706 [main}] INFO  api.test.userTestusingPropertiesfile - ******************Getting Details User*****
+12:53:59.124 [main}] INFO  api.test.userTestusingPropertiesfile - ******************Get the Details of User*****
+12:53:59.128 [main}] INFO  api.test.userTestusingPropertiesfile - ******************Upating User*****
+12:54:00.600 [main}] INFO  api.test.userTestusingPropertiesfile - ******************User Updated*****
+12:54:02.028 [main}] INFO  api.test.userTestusingPropertiesfile - ******************Deleting User*****
+12:54:03.423 [main}] INFO  api.test.userTestusingPropertiesfile - ******************Deleted User*****
+12:54:54.145 [main}] INFO  api.test.userTest - ******************Creating User*****
+12:54:55.537 [main}] INFO  api.test.userTest - ******************Created User*****
+12:54:55.538 [main}] INFO  api.test.userTest - ******************Getting Details User*****
+12:54:56.881 [main}] INFO  api.test.userTest - ******************Get the Details of User*****
+12:54:56.882 [main}] INFO  api.test.userTest - ******************Upating User*****
+12:54:58.290 [main}] INFO  api.test.userTest - ******************User Updated*****
+12:54:59.715 [main}] INFO  api.test.userTest - ******************Deleting User*****
+12:55:01.085 [main}] INFO  api.test.userTest - ******************Deleted User*****
+11:21:38.390 [main}] INFO  api.test.userTest - ******************Creating User*****
+11:21:40.561 [main}] INFO  api.test.userTest - ******************Created User*****
+11:21:40.561 [main}] INFO  api.test.userTest - ******************Getting Details User*****
+11:21:42.763 [main}] INFO  api.test.userTest - ******************Get the Details of User*****
+11:21:42.763 [main}] INFO  api.test.userTest - ******************Upating User*****
+11:21:44.698 [main}] INFO  api.test.userTest - ******************User Updated*****
+11:21:46.855 [main}] INFO  api.test.userTest - ******************Deleting User*****
+11:21:48.584 [main}] INFO  api.test.userTest - ******************Deleted User*****
+11:26:53.932 [main}] INFO  api.test.userTest - ******************Creating User*****
+11:26:56.022 [main}] INFO  api.test.userTest - ******************Created User*****
+11:26:56.042 [main}] INFO  api.test.userTest - ******************Getting Details User*****
+11:27:06.657 [main}] INFO  api.test.userTest - ******************Get the Details of User*****
+11:27:06.657 [main}] INFO  api.test.userTest - ******************Upating User*****
+11:27:08.902 [main}] INFO  api.test.userTest - ******************User Updated*****
+11:27:11.125 [main}] INFO  api.test.userTest - ******************Deleting User*****
+11:27:13.309 [main}] INFO  api.test.userTest - ******************Deleted User*****
+11:28:51.480 [main}] INFO  api.test.userTestusingPropertiesfile - ******************Creating User*****
+11:28:59.475 [main}] INFO  api.test.userTestusingPropertiesfile - ******************Created User*****
+11:28:59.487 [main}] INFO  api.test.userTestusingPropertiesfile - ******************Getting Details User*****
+11:29:01.141 [main}] INFO  api.test.userTestusingPropertiesfile - ******************Get the Details of User*****
+11:29:01.146 [main}] INFO  api.test.userTestusingPropertiesfile - ******************Upating User*****
+11:29:05.647 [main}] INFO  api.test.userTestusingPropertiesfile - ******************User Updated*****
+11:29:07.600 [main}] INFO  api.test.userTestusingPropertiesfile - ******************Deleting User*****
+11:29:10.151 [main}] INFO  api.test.userTestusingPropertiesfile - ******************Deleted User*****
+11:31:17.362 [main}] INFO  api.test.userTest - ******************Creating User*****
+11:31:19.120 [main}] INFO  api.test.userTest - ******************Created User*****
+11:31:19.122 [main}] INFO  api.test.userTest - ******************Getting Details User*****
+11:31:21.126 [main}] INFO  api.test.userTest - ******************Get the Details of User*****
+11:31:21.128 [main}] INFO  api.test.userTest - ******************Upating User*****
+11:31:23.581 [main}] INFO  api.test.userTest - ******************User Updated*****
+11:31:25.526 [main}] INFO  api.test.userTest - ******************Deleting User*****
+11:31:27.784 [main}] INFO  api.test.userTest - ******************Deleted User*****
+11:33:42.173 [main}] INFO  api.test.userTest - ******************Creating User*****
+11:33:44.739 [main}] INFO  api.test.userTest - ******************Created User*****
+11:33:44.741 [main}] INFO  api.test.userTest - ******************Getting Details User*****
+11:33:47.049 [main}] INFO  api.test.userTest - ******************Get the Details of User*****
+11:33:47.051 [main}] INFO  api.test.userTest - ******************Upating User*****
+11:33:49.296 [main}] INFO  api.test.userTest - ******************User Updated*****
+11:33:51.447 [main}] INFO  api.test.userTest - ******************Deleting User*****
+11:33:54.013 [main}] INFO  api.test.userTest - ******************Deleted User*****
+11:36:09.657 [main}] INFO  api.test.userTestusingPropertiesfile - ******************Creating User*****
+11:36:15.896 [main}] INFO  api.test.userTestusingPropertiesfile - ******************Created User*****
+11:36:15.997 [main}] INFO  api.test.userTestusingPropertiesfile - ******************Getting Details User*****
+11:36:18.598 [main}] INFO  api.test.userTestusingPropertiesfile - ******************Get the Details of User*****
+11:36:18.603 [main}] INFO  api.test.userTestusingPropertiesfile - ******************Upating User*****
+11:36:21.157 [main}] INFO  api.test.userTestusingPropertiesfile - ******************User Updated*****
+11:36:23.414 [main}] INFO  api.test.userTestusingPropertiesfile - ******************Deleting User*****
+11:36:25.662 [main}] INFO  api.test.userTestusingPropertiesfile - ******************Deleted User*****
+11:43:42.330 [main}] INFO  api.test.userTest - ******************Creating User*****
+11:43:44.429 [main}] INFO  api.test.userTest - ******************Created User*****
+11:43:44.430 [main}] INFO  api.test.userTest - ******************Getting Details User*****
+11:43:47.320 [main}] INFO  api.test.userTest - ******************Get the Details of User*****
+11:43:47.321 [main}] INFO  api.test.userTest - ******************Upating User*****
+11:43:49.468 [main}] INFO  api.test.userTest - ******************User Updated*****
+11:43:52.035 [main}] INFO  api.test.userTest - ******************Deleting User*****
+11:43:54.285 [main}] INFO  api.test.userTest - ******************Deleted User*****
